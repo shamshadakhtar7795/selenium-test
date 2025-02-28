@@ -1,0 +1,26 @@
+<!--<suite name="Loan Department" >-->
+
+<!--    <test name="Personal loan">-->
+
+<!--        <classes>-->
+<!--            <class name="">-->
+<!--                <methods>-->
+<!--                    <include name="Demo"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+<!--            <class name="test.day2"/>-->
+<!--            <class name="test.day4"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="Car Loan">-->
+<!--        <parameter name="URL" value="carloan.com"/>-->
+<!--        <parameter name="APIKey/usrname" value="123456"/>-->
+<!--        <classes>-->
+<!--            <class name="test.day3">-->
+<!--                <methods>-->
+<!--                    <exclude name="API.*"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--</suite>-->
