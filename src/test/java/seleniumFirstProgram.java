@@ -10,6 +10,7 @@ public class seleniumFirstProgram extends baseClass {
 
         seleniumFirstProgram sf= new seleniumFirstProgram();
         sf.browserConfig();
+System.out.println("test");
 
 
 
